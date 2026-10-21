@@ -1,4 +1,4 @@
-Date,vel_up_centreline,dLdt,calving,calving_magnitude,dt_days,dt_years,Centerline_Length
+Date,vel_up_centerline,dLdt,calving,calving_magnitude,dt_days,dt_years,Centerline_Length
 2015-01-03,,,,,,,0.0
 2015-01-15,,13887.640980456017,,,12.0,0.03285420944558522,456.2674654769944
 2015-01-27,,-2318.761472260492,,,12.0,0.03285420944558522,380.08639041299466
